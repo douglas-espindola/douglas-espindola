@@ -1,4 +1,4 @@
-### Olá eu sou o Douglas 👋
+### Olá! Eu sou o Douglas 👋
 
 <!--
 **douglas-espindola/douglas-espindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
