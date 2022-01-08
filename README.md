@@ -26,5 +26,5 @@
 </div><br/>
 
 - 🔭 Atualmente trabalho como FullStack
-- 🌱 Estuando PHP, Laravel e JavaScript
+- 🌱 Estudando PHP, Laravel e JavaScript
 - 😄 Pronouns: ele/dele
