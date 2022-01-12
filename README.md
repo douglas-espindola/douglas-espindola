@@ -24,7 +24,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </div><br/>
-
-- 🔭 Atualmente trabalho como FullStack
-- 🌱 Estudando PHP, Laravel e JavaScript
-- 😄 Pronouns: ele/dele
