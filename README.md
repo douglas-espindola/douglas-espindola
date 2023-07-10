@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Espíndola</h1>
 <h3 align="center">Backend developer from Brazil</h3>
 
-<img width="300" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="250" height="180em" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglas-espindola&label=Profile%20views&color=0e75b6&style=flat" alt="douglas-espindola" /> </p>
 
