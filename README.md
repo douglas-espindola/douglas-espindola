@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Espíndola</h1>
 <h3 align="center">Backend developer from Brazil</h3>
 
-<img width="300" margin-top="30%" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="300" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglas-espindola&label=Profile%20views&color=0e75b6&style=flat" alt="douglas-espindola" /> </p>
 
@@ -30,7 +30,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-espindola&show_icons=true&theme=dracula&count_private=true"/>
 
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-espindola&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="500" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-espindola&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
