@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglas-espindola&label=Profile%20views&color=0e75b6&style=flat" alt="douglas-espindola" /> </p>
 
-- 🔭 I’m currently working on [Proesc](No link)
+- 🔭 I’m currently working on [Proesc]
 
 - 🌱 I’m currently learning **DevOps, JavaScript, PHP, React, Laravel**
-
-- 👯 I’m looking to collaborate on [SISOP](No link)
-
-- 🤝 I’m looking for help with [Astra](No link)
 
 - 💬 Ask me about **Laravel, PHP, PostgreSQL**
 
