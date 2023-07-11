@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Douglas Espíndola</h1>
-<h3 align="center">Backend developer from Brazil</h3>
+<h3 align="center">Fullstack Developer</h3>
 
-<img width="250" height="180em" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglas-espindola&label=Profile%20views&color=0e75b6&style=flat" alt="douglas-espindola" /> </p>
+<img align="right" height="400em" width="230em" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently working on [Proesc]
 
-- 🌱 I’m currently learning **DevOps, JavaScript, PHP, React, Laravel**:heart:
+- 🌱 I’m currently learning **DevOps, JavaScript, PHP, React, Laravel**
 
 - 💬 Ask me about **Laravel, PHP, PostgreSQL**
 
