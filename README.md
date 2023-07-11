@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Espíndola</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<img align="right" height="400em" width="230em" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" height="300em" width="230em" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently working on [Proesc]
 
