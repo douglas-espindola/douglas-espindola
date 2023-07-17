@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Proesc]
 
-- 🌱 I’m currently learning **DevOps, JavaScript, PHP, React, Laravel**
+- 🌱 I’m currently learning **DevOps, JavaScript, PHP, React, Laravel, lumen**
 
 - 💬 Ask me about **Laravel, PHP, PostgreSQL**
 
